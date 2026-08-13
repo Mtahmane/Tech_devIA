@@ -2,6 +2,44 @@
 
 
 # Tech_devIA
+# Moussa Tagalfi Touré
+
+## Ingénieur Logiciel & IA — Fullstack | Architecte de solutions intelligentes
+
+Je suis **Moussa Tagalfi Touré**, ingénieur informatique spécialisé en **génie logiciel et intelligence artificielle**, avec une passion particulière pour la conception de produits numériques robustes, intelligents et utiles.
+
+Mon approche combine **ingénierie logicielle, développement Fullstack, architecture système et intelligence artificielle** pour transformer des problématiques complexes en solutions technologiques concrètes.
+
+Je conçois et développe des applications web, des plateformes métier, des API, des systèmes distribués et des solutions d’IA intégrant notamment la **Generative AI, les systèmes RAG, les VoiceBots et l’automatisation intelligente**. Mon expertise couvre l’ensemble de la chaîne technique, du besoin métier jusqu’à l’architecture, au développement, au déploiement et à l’amélioration continue.
+
+### Ma vision
+
+Pour moi, le logiciel ne doit pas simplement fonctionner : il doit **résoudre un problème réel, être maintenable, évoluer avec les besoins et apporter une véritable valeur à ses utilisateurs**.
+
+Je privilégie donc une approche fondée sur la compréhension du problème, la simplicité architecturale, la robustesse technique et l’impact métier.
+
+### Ce que je construis
+
+* Applications web et plateformes Fullstack
+* Architectures backend et API
+* Solutions SaaS et systèmes métier
+* Applications intégrant l’IA générative
+* Systèmes RAG et assistants intelligents
+* VoiceBots et interfaces conversationnelles
+* Systèmes distribués et microservices
+* Solutions data et automatisation
+* Dashboards et applications orientées IA
+
+Mon environnement technique s'étend notamment de **Python, TypeScript/JavaScript, React et Next.js** à **FastAPI, Django, NestJS, Spring Boot, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, Kafka et AWS**.
+
+### Mon parcours
+
+Mon expérience s'est construite dans différents environnements professionnels, notamment dans les secteurs des **télécommunications, de la régulation, du développement logiciel et de l'innovation technologique**. J'ai notamment travaillé sur des projets de digitalisation, des solutions de surveillance basées sur l'IA et des systèmes intelligents exploitant le RAG et les interfaces vocales.
+
+Aujourd'hui, je cherche à mettre cette combinaison de compétences techniques et analytiques au service de **projets ambitieux capables de produire un impact concret en Afrique et au-delà**.
+
+> **Je ne me contente pas d'écrire du code. Je conçois des systèmes qui transforment des idées et des problèmes complexes en solutions numériques concrètes.**
+
 Ingénieur logiciel &amp; IA spécialisé en développement Fullstack et architecture de solutions intelligentes. Je conçois des applications web, systèmes distribués et solutions d’IA générative, avec une approche orientée performance, innovation et impact métier.
 
 
